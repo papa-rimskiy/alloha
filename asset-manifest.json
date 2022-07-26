@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alloha/static/css/main.1de89fd3.css",
+    "main.js": "/alloha/static/js/main.24c4eaf7.js",
+    "index.html": "/alloha/index.html",
+    "main.1de89fd3.css.map": "/alloha/static/css/main.1de89fd3.css.map",
+    "main.24c4eaf7.js.map": "/alloha/static/js/main.24c4eaf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de89fd3.css",
+    "static/js/main.24c4eaf7.js"
+  ]
+}
